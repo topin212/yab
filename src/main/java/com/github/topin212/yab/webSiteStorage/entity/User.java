@@ -1,5 +1,6 @@
 package com.github.topin212.yab.webSiteStorage.entity;
 
 public class User {
-    private String name;
+    private String firstName;
+    private String secondName;
 }
